@@ -21,8 +21,8 @@ Here are some ideas to get you started:
   <a href="YOUR_CKA_LINK"><img src="https://cdn.simpleicons.org/kubernetes/326CE5" width="80" alt="CKA" /></a>
   <a href="https://www.credly.com/badges/63bbbac5-c4db-419a-90ff-87239b105331/public_url"><img src="https://cdn.simpleicons.org/terraform/844FB9" width="80" alt="Terraform" /></a>
   <a href="https://cp.certmetrics.com/cisco/en/public/verify/credential/2e4dc83e198c41b398bdd82f8a64145e"><img src="https://cdn.simpleicons.org/cisco/049FD9" width="80" alt="CCNA" /></a>
-  <a href="https://learn.microsoft.com/api/credentials/share/en-us/mehrdadft/7674FDDE5477BE95?sharingId=9C11025036B3541C"><img src="https://cdn.simpleicons.org/microsoftazure/0089D6" width="80" alt="AZ-104" /></a>
-  <a href="https://learn.microsoft.com/api/credentials/share/en-us/mehrdadft/CBAFB8504EF5D794?sharingId=9C11025036B3541C"><img src="https://cdn.simpleicons.org/microsoftazure/0089D6" width="80" alt="AZ-900" /></a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/mehrdadft/7674FDDE5477BE95?sharingId=9C11025036B3541C"><img src="https://images.credly.com/images/336eebfc-0ac3-4553-9a67-b402f491f185/twitter_thumb_201604_azure-administrator-associate-600x600.png" width="80" alt="AZ-104" /></a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/mehrdadft/CBAFB8504EF5D794?sharingId=9C11025036B3541C"><img src="https://images.credly.com/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" width="80" alt="AZ-900" /></a>
   <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-H1O45WCKLT.pdf"><img src="https://cdn.simpleicons.org/tryhackme/990000" width="80" alt="THM" /></a>
 </p>
 
