@@ -1,36 +1,34 @@
-## Hi there 👋
+# Hi, I'm Mehrdad 👋
 
-I am a **Cloud & Infrastructure Enthusiast** focused on building scalable, secure, and automated environments. With a strong foundation in networking (CCNA) and cloud administration (Azure), I am currently bridging the gap between infrastructure and orchestration.
+**Cloud & DevOps Engineer** focused on building scalable, secure, and automated infrastructure on Azure.
 
-- 🔭 I’m currently working on **Automating cloud deployments using Terraform and Azure.**
-- 🌱 I’m currently learning **Kubernetes (CKA preparation)** to master container orchestration.
-- 👯 I’m looking to collaborate on **Open-source DevOps tooling and Infrastructure-as-Code projects.**
-- 💬 Ask me about **Azure Administration, Cisco Networking, or getting started with TryHackMe.**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mehrdadft/) | [Email](mailto:mehrdadft1994@gmail.com)
-- ⚡ Fun fact: I can troubleshoot a subnet mask in my sleep thanks to the CCNA!
+I bridge networking and cloud administration with modern orchestration — automating deployments with **Terraform**, and currently working toward Microsoft's Azure DevOps Engineer Expert (AZ-400) and Azure Solutions Architect Expert (AZ-305) certifications.
 
 ---
 
-### 🏆 Featured Badges
+### Currently
+- Automating cloud deployments with **Terraform** and **Azure**
+- Preparing for **AZ-400** (DevOps Engineer Expert) and **AZ-305** (Solutions Architect Expert)
+- Open to collaborating on open-source **DevOps** and **Infrastructure-as-Code** projects
 
-<p align="left">
-  <a href="#"><img src="https://cdn.simpleicons.org/kubernetes/326CE5" width="80" alt="CKA" /></a>
-  <a href="https://www.credly.com/badges/63bbbac5-c4db-419a-90ff-87239b105331/public_url"><img src="https://cdn.simpleicons.org/terraform/844FB9" width="80" alt="Terraform" /></a>
-  <a href="https://cp.certmetrics.com/cisco/en/public/verify/credential/2e4dc83e198c41b398bdd82f8a64145e"><img src="https://cdn.simpleicons.org/cisco/049FD9" width="80" alt="CCNA" /></a>
-  <a href="https://learn.microsoft.com/api/credentials/share/en-us/mehrdadft/7674FDDE5477BE95?sharingId=9C11025036B3541C"><img src="https://images.credly.com/images/336eebfc-0ac3-4553-9a67-b402f491f185/twitter_thumb_201604_azure-administrator-associate-600x600.png" width="80" alt="AZ-104" /></a>
-  <a href="https://learn.microsoft.com/api/credentials/share/en-us/mehrdadft/CBAFB8504EF5D794?sharingId=9C11025036B3541C"><img src="https://images.credly.com/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" width="80" alt="AZ-900" /></a>
-  <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-H1O45WCKLT.pdf"><img src="https://cdn.simpleicons.org/tryhackme/990000" width="80" alt="THM" /></a>
-</p>
+### Tech Stack
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FB9?style=for-the-badge&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
+### Certifications
 
-## 🎓 Certifications
+| Certification | Issuer | Status |
+|---|---|---|
+| AZ-400: DevOps Engineer Expert | Microsoft | In Progress |
+| AZ-305: Solutions Architect Expert | Microsoft | In Progress |
+| [Terraform Associate](https://www.credly.com/badges/63bbbac5-c4db-419a-90ff-87239b105331/public_url) | HashiCorp | ✅ Certified |
+| [CCNA](https://cp.certmetrics.com/cisco/en/public/verify/credential/2e4dc83e198c41b398bdd82f8a64145e) | Cisco | ✅ Certified |
+| [AZ-104: Azure Administrator](https://learn.microsoft.com/api/credentials/share/en-us/mehrdadft/7674FDDE5477BE95?sharingId=9C11025036B3541C) | Microsoft | ✅ Certified |
+| [AZ-900: Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/mehrdadft/CBAFB8504EF5D794?sharingId=9C11025036B3541C) | Microsoft | ✅ Certified |
+| [Cybersecurity 101](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-H1O45WCKLT.pdf) | TryHackMe | ✅ Certified |
 
-| Certification | Badge | Issued By | Verification |
-| :--- | :---: | :--- | :--- |
-| **Certified Kubernetes Administrator** | ![CKA](https://img.shields.io/badge/CKA-In_Progress-326CE5?style=flat&logo=kubernetes) | CNCF | **Coming Soon** |
-| **Terraform Associate** | ![Terraform](https://img.shields.io/badge/Terraform-Associate-844fb9?style=flat&logo=terraform) | HashiCorp | [Verify](https://www.credly.com/badges/63bbbac5-c4db-419a-90ff-87239b105331/public_url) |
-| **CCNA** | ![CCNA](https://img.shields.io/badge/CCNA-Networking-049fd9?style=flat&logo=cisco) | Cisco | [Verify](https://cp.certmetrics.com/cisco/en/public/verify/credential/2e4dc83e198c41b398bdd82f8a64145e) |
-| **AZ-104** | ![AZ-104](https://img.shields.io/badge/AZ--104-Azure_Admin-0089d6?style=flat&logo=microsoftazure) | Microsoft | [Verify](https://learn.microsoft.com/api/credentials/share/en-us/mehrdadft/7674FDDE5477BE95?sharingId=9C11025036B3541C) |
-| **AZ-900** | ![AZ-900](https://img.shields.io/badge/AZ--900-Azure_Fundamentals-0089d6?style=flat&logo=microsoftazure) | Microsoft | [Verify](https://learn.microsoft.com/api/credentials/share/en-us/mehrdadft/CBAFB8504EF5D794?sharingId=9C11025036B3541C) |
-| **Cybersecurity 101** | ![THM](https://img.shields.io/badge/TryHackMe-Cyber_101-990000?style=flat&logo=tryhackme) | TryHackMe | [Verify](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-H1O45WCKLT.pdf) |
+### Connect
+[LinkedIn](https://www.linkedin.com/in/mehrdadft/) · [Email](mailto:mehrdadft1994@gmail.com)
